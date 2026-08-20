@@ -15,7 +15,7 @@
             "last_commit": "2026-08-06T15:54:13Z",
             "owner": "isocpp",
             "repo": "CppCoreGuidelines",
-            "stars": 45252
+            "stars": 45253
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 1357796,
             "language": "C++",
-            "last_commit": "2026-08-19T11:01:55Z",
+            "last_commit": "2026-08-20T00:23:30Z",
             "owner": "emscripten-core",
             "repo": "emscripten",
-            "stars": 27571
+            "stars": 27574
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-06-09T01:35:23Z",
             "owner": "AnthonyCalandra",
             "repo": "modern-cpp-features",
-            "stars": 21843
+            "stars": 21845
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 51905353,
             "language": "C++",
-            "last_commit": "2026-08-18T13:57:32Z",
+            "last_commit": "2026-08-19T21:24:36Z",
             "owner": "apache",
             "repo": "arrow",
-            "stars": 17031
+            "stars": 17033
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2024-08-06T07:33:26Z",
             "owner": "cpp-best-practices",
             "repo": "cppbestpractices",
-            "stars": 8806
+            "stars": 8807
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2023-12-15T08:48:20Z",
             "owner": "mortennobel",
             "repo": "cpp-cheatsheet",
-            "stars": 3556
+            "stars": 3555
           }
         },
         {
@@ -147,7 +147,7 @@
             "archived": false,
             "id": 157940909,
             "language": "C++",
-            "last_commit": "2026-08-18T20:11:36Z",
+            "last_commit": "2026-08-19T21:11:53Z",
             "owner": "eliaskosunen",
             "repo": "scnlib",
             "stars": 1318
@@ -1032,7 +1032,7 @@
                 "last_commit": "2026-08-06T17:29:28Z",
                 "owner": "taskflow",
                 "repo": "taskflow",
-                "stars": 12117
+                "stars": 12116
               }
             },
             {
@@ -1059,7 +1059,7 @@
                 "archived": false,
                 "id": 67641996,
                 "language": "C++",
-                "last_commit": "2026-08-19T11:30:04Z",
+                "last_commit": "2026-08-19T15:38:28Z",
                 "owner": "uxlfoundation",
                 "repo": "oneTBB",
                 "stars": 6717
@@ -1077,7 +1077,7 @@
                 "last_commit": "2026-07-18T23:47:27Z",
                 "owner": "chriskohlhoff",
                 "repo": "asio",
-                "stars": 6164
+                "stars": 6166
               }
             },
             {
@@ -1494,7 +1494,7 @@
                 "archived": false,
                 "id": 183504467,
                 "language": "C++",
-                "last_commit": "2026-07-06T17:10:46Z",
+                "last_commit": "2026-08-19T22:37:40Z",
                 "owner": "microsoft",
                 "repo": "arcana.cpp",
                 "stars": 86
@@ -1771,10 +1771,10 @@
                 "archived": false,
                 "id": 192805335,
                 "language": "C",
-                "last_commit": "2026-08-19T07:07:46Z",
+                "last_commit": "2026-08-19T21:44:05Z",
                 "owner": "microsoft",
                 "repo": "mimalloc",
-                "stars": 13303
+                "stars": 13305
               }
             },
             {
@@ -1789,7 +1789,7 @@
                 "last_commit": "2026-08-10T13:16:09Z",
                 "owner": "jemalloc",
                 "repo": "jemalloc",
-                "stars": 11049
+                "stars": 11050
               }
             },
             {
@@ -1834,7 +1834,7 @@
                 "last_commit": "2026-04-12T17:51:32Z",
                 "owner": "mtrebi",
                 "repo": "memory-allocators",
-                "stars": 1991
+                "stars": 1992
               }
             },
             {
@@ -1849,7 +1849,7 @@
                 "last_commit": "2026-08-13T17:29:43Z",
                 "owner": "GrapheneOS",
                 "repo": "hardened_malloc",
-                "stars": 1964
+                "stars": 1965
               }
             },
             {
@@ -1869,6 +1869,21 @@
             },
             {
               "node_type": "item",
+              "title": "snmalloc",
+              "description": "Message passing based allocator",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164874285,
+                "language": "C++",
+                "last_commit": "2026-08-13T09:59:45Z",
+                "owner": "microsoft",
+                "repo": "snmalloc",
+                "stars": 1886
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Mesh",
               "description": "A memory allocator that automatically reduces the memory footprint of C/C++ applications.",
               "children": [],
@@ -1880,21 +1895,6 @@
                 "owner": "plasma-umass",
                 "repo": "Mesh",
                 "stars": 1878
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "snmalloc",
-              "description": "Message passing based allocator",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 164874285,
-                "language": "C++",
-                "last_commit": "2026-08-13T09:59:45Z",
-                "owner": "microsoft",
-                "repo": "snmalloc",
-                "stars": 1868
               }
             },
             {
@@ -2430,10 +2430,10 @@
                 "archived": false,
                 "id": 11171548,
                 "language": "C++",
-                "last_commit": "2026-08-18T19:47:22Z",
+                "last_commit": "2026-08-20T02:37:13Z",
                 "owner": "nlohmann",
                 "repo": "json",
-                "stars": 50399
+                "stars": 50404
               }
             },
             {
@@ -2445,10 +2445,10 @@
                 "archived": false,
                 "id": 126412363,
                 "language": "C++",
-                "last_commit": "2026-08-18T17:49:22Z",
+                "last_commit": "2026-08-19T13:27:28Z",
                 "owner": "simdjson",
                 "repo": "simdjson",
-                "stars": 24162
+                "stars": 24161
               }
             },
             {
@@ -2460,10 +2460,10 @@
                 "archived": false,
                 "id": 126412363,
                 "language": "C++",
-                "last_commit": "2026-08-18T17:49:22Z",
+                "last_commit": "2026-08-19T13:27:28Z",
                 "owner": "simdjson",
                 "repo": "simdjson",
-                "stars": 24162
+                "stars": 24161
               }
             },
             {
@@ -2478,7 +2478,7 @@
                 "last_commit": "2025-02-05T13:28:08Z",
                 "owner": "Tencent",
                 "repo": "rapidjson",
-                "stars": 15113
+                "stars": 15114
               }
             },
             {
@@ -2643,7 +2643,7 @@
                 "last_commit": "2026-06-19T15:55:17Z",
                 "owner": "brofield",
                 "repo": "simpleini",
-                "stars": 1322
+                "stars": 1323
               }
             },
             {
@@ -2823,7 +2823,7 @@
                 "last_commit": "2024-06-12T12:03:14Z",
                 "owner": "amiremohamadi",
                 "repo": "DuckX",
-                "stars": 505
+                "stars": 506
               }
             },
             {
@@ -2925,7 +2925,7 @@
                 "archived": false,
                 "id": 88884809,
                 "language": "C",
-                "last_commit": "2024-08-23T14:11:25Z",
+                "last_commit": "2026-08-19T13:47:33Z",
                 "owner": "dougbinks",
                 "repo": "enkiMI",
                 "stars": 110
@@ -3307,10 +3307,10 @@
                 "archived": false,
                 "id": 6930489,
                 "language": "C++",
-                "last_commit": "2026-08-19T02:08:24Z",
+                "last_commit": "2026-08-19T16:36:47Z",
                 "owner": "facebook",
                 "repo": "watchman",
-                "stars": 13682
+                "stars": 13684
               }
             },
             {
@@ -3325,7 +3325,7 @@
                 "last_commit": "2026-03-25T02:26:59Z",
                 "owner": "littlefs-project",
                 "repo": "littlefs",
-                "stars": 6894
+                "stars": 6893
               }
             },
             {
@@ -3385,7 +3385,7 @@
                 "last_commit": "2026-06-17T16:02:52Z",
                 "owner": "icculus",
                 "repo": "physfs",
-                "stars": 809
+                "stars": 810
               }
             },
             {
@@ -3479,10 +3479,10 @@
                 "archived": false,
                 "id": 23357588,
                 "language": "C++",
-                "last_commit": "2026-08-19T10:11:04Z",
+                "last_commit": "2026-08-20T02:21:24Z",
                 "owner": "protocolbuffers",
                 "repo": "protobuf",
-                "stars": 71737
+                "stars": 71741
               }
             },
             {
@@ -3497,7 +3497,7 @@
                 "last_commit": "2026-08-11T19:49:45Z",
                 "owner": "google",
                 "repo": "flatbuffers",
-                "stars": 26338
+                "stars": 26352
               }
             },
             {
@@ -3509,7 +3509,7 @@
                 "archived": false,
                 "id": 9090933,
                 "language": "C++",
-                "last_commit": "2026-08-18T22:28:25Z",
+                "last_commit": "2026-08-20T00:55:04Z",
                 "owner": "capnproto",
                 "repo": "capnproto",
                 "stars": 13162
@@ -3797,7 +3797,7 @@
                 "last_commit": "2023-11-22T08:32:36Z",
                 "owner": "apolukhin",
                 "repo": "magic_get",
-                "stars": 215
+                "stars": 216
               }
             },
             {
@@ -3809,7 +3809,7 @@
                 "archived": false,
                 "id": 141550444,
                 "language": "Java",
-                "last_commit": "2026-08-19T11:06:10Z",
+                "last_commit": "2026-08-19T13:46:55Z",
                 "owner": "ndsev",
                 "repo": "zserio",
                 "stars": 153
@@ -4276,7 +4276,7 @@
                 "last_commit": "2026-07-15T15:47:54Z",
                 "owner": "Dobiasd",
                 "repo": "FunctionalPlus",
-                "stars": 2294
+                "stars": 2296
               }
             },
             {
@@ -4306,7 +4306,7 @@
                 "last_commit": "2019-01-07T20:37:22Z",
                 "owner": "beark",
                 "repo": "ftl",
-                "stars": 986
+                "stars": 987
               }
             },
             {
@@ -4553,7 +4553,7 @@
                 "last_commit": "2026-08-19T07:17:09Z",
                 "owner": "microsoft",
                 "repo": "STL",
-                "stars": 11130
+                "stars": 11132
               }
             },
             {
@@ -4568,7 +4568,7 @@
                 "last_commit": "2025-11-15T21:12:59Z",
                 "owner": "electronicarts",
                 "repo": "EASTL",
-                "stars": 9340
+                "stars": 9341
               }
             },
             {
@@ -4643,7 +4643,7 @@
                 "last_commit": "2023-11-26T12:39:33Z",
                 "owner": "antirez",
                 "repo": "rax",
-                "stars": 1265
+                "stars": 1266
               }
             },
             {
@@ -5070,7 +5070,7 @@
                 "last_commit": "2026-08-08T10:51:08Z",
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29496
+                "stars": 29503
               }
             },
             {
@@ -5085,7 +5085,7 @@
                 "last_commit": "2026-08-16T17:08:58Z",
                 "owner": "fmtlib",
                 "repo": "fmt",
-                "stars": 23746
+                "stars": 23748
               }
             },
             {
@@ -5160,7 +5160,7 @@
                 "last_commit": "2025-05-14T23:50:57Z",
                 "owner": "p-ranav",
                 "repo": "tabulate",
-                "stars": 2174
+                "stars": 2172
               }
             },
             {
@@ -5175,7 +5175,7 @@
                 "last_commit": "2026-07-31T12:11:42Z",
                 "owner": "emilk",
                 "repo": "loguru",
-                "stars": 1906
+                "stars": 1907
               }
             },
             {
@@ -5205,7 +5205,7 @@
                 "last_commit": "2020-02-20T20:55:47Z",
                 "owner": "p-ranav",
                 "repo": "pprint",
-                "stars": 936
+                "stars": 935
               }
             },
             {
@@ -5561,10 +5561,10 @@
                 "archived": false,
                 "id": 10744183,
                 "language": "Go",
-                "last_commit": "2026-08-19T06:57:04Z",
+                "last_commit": "2026-08-20T00:11:29Z",
                 "owner": "netdata",
                 "repo": "netdata",
-                "stars": 80228
+                "stars": 80234
               }
             },
             {
@@ -5579,7 +5579,7 @@
                 "last_commit": "2026-08-19T01:37:29Z",
                 "owner": "winsiderss",
                 "repo": "systeminformer",
-                "stars": 15661
+                "stars": 15665
               }
             },
             {
@@ -5609,7 +5609,7 @@
                 "last_commit": "2026-08-18T07:19:23Z",
                 "owner": "google",
                 "repo": "benchmark",
-                "stars": 10354
+                "stars": 10356
               }
             },
             {
@@ -5801,10 +5801,10 @@
                 "archived": false,
                 "id": 142042657,
                 "language": "C#",
-                "last_commit": "2026-08-19T11:40:04Z",
+                "last_commit": "2026-08-19T20:10:40Z",
                 "owner": "CXWorld",
                 "repo": "CapFrameX",
-                "stars": 1266
+                "stars": 1267
               }
             },
             {
@@ -5819,7 +5819,7 @@
                 "last_commit": "2023-10-16T01:26:24Z",
                 "owner": "VerySleepy",
                 "repo": "verysleepy",
-                "stars": 1232
+                "stars": 1233
               }
             },
             {
@@ -5849,7 +5849,7 @@
                 "last_commit": "2026-01-14T16:44:27Z",
                 "owner": "mikesart",
                 "repo": "gpuvis",
-                "stars": 903
+                "stars": 904
               }
             },
             {
@@ -5951,10 +5951,10 @@
                 "archived": false,
                 "id": 45953649,
                 "language": "C++",
-                "last_commit": "2026-08-13T16:21:16Z",
+                "last_commit": "2026-08-19T15:51:01Z",
                 "owner": "llnl",
                 "repo": "Caliper",
-                "stars": 416
+                "stars": 417
               }
             },
             {
@@ -6029,7 +6029,7 @@
                 "last_commit": "2026-05-08T10:09:17Z",
                 "owner": "ARM-software",
                 "repo": "libGPUCounters",
-                "stars": 277
+                "stars": 278
               }
             },
             {
@@ -6363,10 +6363,10 @@
                 "archived": false,
                 "id": 39840932,
                 "language": "C++",
-                "last_commit": "2026-08-18T14:47:19Z",
+                "last_commit": "2026-08-19T19:37:00Z",
                 "owner": "google",
                 "repo": "googletest",
-                "stars": 38938
+                "stars": 38940
               }
             },
             {
@@ -6381,7 +6381,7 @@
                 "last_commit": "2026-08-10T22:08:23Z",
                 "owner": "catchorg",
                 "repo": "Catch2",
-                "stars": 21426
+                "stars": 21428
               }
             },
             {
@@ -6396,7 +6396,7 @@
                 "last_commit": "2026-08-18T21:43:01Z",
                 "owner": "doctest",
                 "repo": "doctest",
-                "stars": 6846
+                "stars": 6847
               }
             },
             {
@@ -6423,7 +6423,7 @@
                 "archived": false,
                 "id": 47508322,
                 "language": "C++",
-                "last_commit": "2026-08-18T19:44:57Z",
+                "last_commit": "2026-08-19T20:21:05Z",
                 "owner": "sheredom",
                 "repo": "utest.h",
                 "stars": 990
@@ -6468,7 +6468,7 @@
                 "archived": false,
                 "id": 658110641,
                 "language": "C++",
-                "last_commit": "2026-08-19T12:01:45Z",
+                "last_commit": "2026-08-19T20:43:23Z",
                 "owner": "cieslarmichal",
                 "repo": "faker-cxx",
                 "stars": 421
@@ -6625,10 +6625,10 @@
                 "archived": false,
                 "id": 32873313,
                 "language": "C",
-                "last_commit": "2026-08-19T11:03:30Z",
+                "last_commit": "2026-08-20T03:04:34Z",
                 "owner": "systemd",
                 "repo": "systemd",
-                "stars": 16607
+                "stars": 16609
               }
             },
             {
@@ -6643,7 +6643,7 @@
                 "last_commit": "2026-08-05T21:52:29Z",
                 "owner": "microsoft",
                 "repo": "Detours",
-                "stars": 6358
+                "stars": 6359
               }
             },
             {
@@ -6775,7 +6775,7 @@
                 "archived": false,
                 "id": 68223326,
                 "language": "C++",
-                "last_commit": "2026-07-31T20:49:24Z",
+                "last_commit": "2026-08-19T17:49:05Z",
                 "owner": "microsoft",
                 "repo": "cppwinrt",
                 "stars": 1868
@@ -6805,7 +6805,7 @@
                 "archived": false,
                 "id": 114390537,
                 "language": "C",
-                "last_commit": "2026-08-19T11:52:47Z",
+                "last_commit": "2026-08-19T20:33:29Z",
                 "owner": "sheredom",
                 "repo": "subprocess.h",
                 "stars": 1406
@@ -7187,10 +7187,10 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-19T11:03:59Z",
+                "last_commit": "2026-08-19T16:15:57Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24597
+                "stars": 24603
               }
             },
             {
@@ -7295,7 +7295,7 @@
                 "last_commit": "2024-05-30T08:13:54Z",
                 "owner": "muellan",
                 "repo": "clipp",
-                "stars": 1322
+                "stars": 1321
               }
             },
             {
@@ -7493,10 +7493,10 @@
                 "archived": false,
                 "id": 75821432,
                 "language": "LLVM",
-                "last_commit": "2026-08-19T12:13:07Z",
+                "last_commit": "2026-08-20T02:59:06Z",
                 "owner": "llvm",
                 "repo": "llvm-project",
-                "stars": 39827
+                "stars": 39828
               }
             },
             {
@@ -7668,7 +7668,7 @@
                 "last_commit": "2026-06-29T23:29:00Z",
                 "owner": "stevemk14ebr",
                 "repo": "PolyHook_2_0",
-                "stars": 1887
+                "stars": 1889
               }
             },
             {
@@ -7892,7 +7892,7 @@
                 "last_commit": "2026-08-15T11:35:51Z",
                 "owner": "x64dbg",
                 "repo": "x64dbg",
-                "stars": 49196
+                "stars": 49204
               }
             },
             {
@@ -8050,7 +8050,7 @@
             "last_commit": "2026-08-02T06:42:09Z",
             "owner": "nothings",
             "repo": "stb",
-            "stars": 34439
+            "stars": 34444
           }
         },
         {
@@ -8062,10 +8062,10 @@
             "archived": false,
             "id": 104231541,
             "language": "C++",
-            "last_commit": "2026-08-19T02:04:42Z",
+            "last_commit": "2026-08-20T00:28:31Z",
             "owner": "abseil",
             "repo": "abseil-cpp",
-            "stars": 18082
+            "stars": 18086
           }
         },
         {
@@ -8092,7 +8092,7 @@
             "archived": false,
             "id": 97212490,
             "language": "C",
-            "last_commit": "2026-08-18T17:47:32Z",
+            "last_commit": "2026-08-19T16:55:31Z",
             "owner": "floooh",
             "repo": "sokol",
             "stars": 10219
@@ -8122,10 +8122,10 @@
             "archived": false,
             "id": 41005795,
             "language": "C++",
-            "last_commit": "2026-08-18T15:57:29Z",
+            "last_commit": "2026-08-20T00:19:30Z",
             "owner": "microsoft",
             "repo": "GSL",
-            "stars": 6707
+            "stars": 6708
           }
         },
         {
@@ -8140,7 +8140,7 @@
             "last_commit": "2026-08-05T00:10:44Z",
             "owner": "RandyGaul",
             "repo": "cute_headers",
-            "stars": 5045
+            "stars": 5046
           }
         },
         {
@@ -8167,7 +8167,7 @@
             "archived": false,
             "id": 50877456,
             "language": "C",
-            "last_commit": "2026-07-29T22:15:54Z",
+            "last_commit": "2026-08-19T21:53:19Z",
             "owner": "mackron",
             "repo": "dr_libs",
             "stars": 1799
@@ -8242,7 +8242,7 @@
             "archived": false,
             "id": 43079276,
             "language": "C++",
-            "last_commit": "2026-03-20T19:08:52Z",
+            "last_commit": "2026-08-19T16:42:56Z",
             "owner": "gsl-lite",
             "repo": "gsl-lite",
             "stars": 981
@@ -8983,10 +8983,10 @@
             "archived": false,
             "id": 15634981,
             "language": "C++",
-            "last_commit": "2026-08-19T07:22:57Z",
+            "last_commit": "2026-08-19T22:46:21Z",
             "owner": "godotengine",
             "repo": "godot",
-            "stars": 115867
+            "stars": 115894
           }
         },
         {
@@ -8998,10 +8998,10 @@
             "archived": false,
             "id": 13836499,
             "language": "C",
-            "last_commit": "2026-08-18T12:33:31Z",
+            "last_commit": "2026-08-19T19:17:17Z",
             "owner": "raysan5",
             "repo": "raylib",
-            "stars": 34395
+            "stars": 34400
           }
         },
         {
@@ -9013,10 +9013,10 @@
             "archived": false,
             "id": 21331090,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T12:11:46Z",
+            "last_commit": "2026-08-19T23:49:44Z",
             "owner": "4ian",
             "repo": "GDevelop",
-            "stars": 25771
+            "stars": 25793
           }
         },
         {
@@ -9031,7 +9031,7 @@
             "last_commit": "2024-05-24T13:18:59Z",
             "owner": "id-Software",
             "repo": "DOOM",
-            "stars": 19421
+            "stars": 19429
           }
         },
         {
@@ -9046,7 +9046,7 @@
             "last_commit": "2025-04-19T06:31:10Z",
             "owner": "cheat-engine",
             "repo": "cheat-engine",
-            "stars": 19003
+            "stars": 19010
           }
         },
         {
@@ -9058,10 +9058,10 @@
             "archived": false,
             "id": 19696006,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T10:44:50Z",
+            "last_commit": "2026-08-20T03:00:50Z",
             "owner": "playcanvas",
             "repo": "engine",
-            "stars": 16524
+            "stars": 16527
           }
         },
         {
@@ -9091,7 +9091,7 @@
             "last_commit": "2026-08-18T07:44:29Z",
             "owner": "TrinityCore",
             "repo": "TrinityCore",
-            "stars": 10731
+            "stars": 10732
           }
         },
         {
@@ -9133,7 +9133,7 @@
             "archived": false,
             "id": 37770961,
             "language": "C++",
-            "last_commit": "2026-08-19T05:03:12Z",
+            "last_commit": "2026-08-19T18:58:04Z",
             "owner": "turanszkij",
             "repo": "WickedEngine",
             "stars": 7190
@@ -9166,7 +9166,7 @@
             "last_commit": "2023-01-25T17:29:02Z",
             "owner": "urho3d",
             "repo": "urho3d",
-            "stars": 4760
+            "stars": 4759
           }
         },
         {
@@ -9178,10 +9178,10 @@
             "archived": false,
             "id": 47069819,
             "language": "C++",
-            "last_commit": "2026-08-18T20:57:59Z",
+            "last_commit": "2026-08-19T21:06:50Z",
             "owner": "OGRECave",
             "repo": "ogre",
-            "stars": 4636
+            "stars": 4637
           }
         },
         {
@@ -9196,7 +9196,7 @@
             "last_commit": "2026-08-16T20:18:01Z",
             "owner": "DiligentGraphics",
             "repo": "DiligentEngine",
-            "stars": 4400
+            "stars": 4401
           }
         },
         {
@@ -9223,7 +9223,7 @@
             "archived": false,
             "id": 14590125,
             "language": "C++",
-            "last_commit": "2026-08-18T19:56:17Z",
+            "last_commit": "2026-08-19T23:13:37Z",
             "owner": "nem0",
             "repo": "LumixEngine",
             "stars": 3865
@@ -9328,7 +9328,7 @@
             "archived": false,
             "id": 61415047,
             "language": "C++",
-            "last_commit": "2026-08-19T00:09:04Z",
+            "last_commit": "2026-08-20T01:36:49Z",
             "owner": "PanosK92",
             "repo": "SpartanEngine",
             "stars": 3107
@@ -9343,10 +9343,10 @@
             "archived": false,
             "id": 9880335,
             "language": "C++",
-            "last_commit": "2026-08-19T12:05:41Z",
+            "last_commit": "2026-08-20T00:04:21Z",
             "owner": "qt",
             "repo": "qtbase",
-            "stars": 3061
+            "stars": 3062
           }
         },
         {
@@ -9373,7 +9373,7 @@
             "archived": false,
             "id": 62519414,
             "language": "C",
-            "last_commit": "2026-08-17T19:08:40Z",
+            "last_commit": "2026-08-20T00:38:42Z",
             "owner": "bjornbytes",
             "repo": "lovr",
             "stars": 2587
@@ -9433,7 +9433,7 @@
             "archived": false,
             "id": 18179848,
             "language": "C++",
-            "last_commit": "2026-08-19T09:31:27Z",
+            "last_commit": "2026-08-19T16:17:16Z",
             "owner": "ezEngine",
             "repo": "ezEngine",
             "stars": 1994
@@ -9466,7 +9466,7 @@
             "last_commit": "2026-08-19T09:03:24Z",
             "owner": "GameFoundry",
             "repo": "B3DFramework",
-            "stars": 1918
+            "stars": 1919
           }
         },
         {
@@ -9481,7 +9481,7 @@
             "last_commit": "2021-12-17T14:46:57Z",
             "owner": "AshampooSystems",
             "repo": "boden",
-            "stars": 1744
+            "stars": 1745
           }
         },
         {
@@ -9721,7 +9721,7 @@
             "last_commit": "2026-08-11T19:21:07Z",
             "owner": "enginmanap",
             "repo": "limonEngine",
-            "stars": 704
+            "stars": 705
           }
         },
         {
@@ -9793,7 +9793,7 @@
             "archived": false,
             "id": 164809983,
             "language": "C#",
-            "last_commit": "2026-08-19T11:48:29Z",
+            "last_commit": "2026-08-19T14:34:28Z",
             "owner": "amerkoleci",
             "repo": "alimer",
             "stars": 491
@@ -9958,7 +9958,7 @@
             "archived": false,
             "id": 1313517,
             "language": "C++",
-            "last_commit": "2026-08-04T20:11:23Z",
+            "last_commit": "2026-08-19T20:17:27Z",
             "owner": "jhasse",
             "repo": "jngl",
             "stars": 317
@@ -10543,7 +10543,7 @@
             "archived": false,
             "id": 911381276,
             "language": "C++",
-            "last_commit": "2026-08-15T17:31:04Z",
+            "last_commit": "2026-08-19T22:57:57Z",
             "owner": "dbartolini",
             "repo": "crown",
             "stars": 30
@@ -11020,7 +11020,7 @@
                 "archived": false,
                 "id": 126486701,
                 "language": "C#",
-                "last_commit": "2026-08-19T08:28:15Z",
+                "last_commit": "2026-08-19T21:07:16Z",
                 "owner": "Unity-Technologies",
                 "repo": "UnityCsReference",
                 "stars": 12953
@@ -11050,7 +11050,7 @@
                 "archived": false,
                 "id": 125612271,
                 "language": "C#",
-                "last_commit": "2026-08-18T23:08:31Z",
+                "last_commit": "2026-08-19T23:08:40Z",
                 "owner": "Unity-Technologies",
                 "repo": "EntityComponentSystemSamples",
                 "stars": 8168
@@ -11083,7 +11083,7 @@
                 "last_commit": "2023-02-23T08:30:23Z",
                 "owner": "candycat1992",
                 "repo": "Unity_Shaders_Book",
-                "stars": 6095
+                "stars": 6096
               }
             },
             {
@@ -11173,7 +11173,7 @@
                 "last_commit": "2025-10-15T21:44:14Z",
                 "owner": "elringus",
                 "repo": "sprite-glow",
-                "stars": 2412
+                "stars": 2413
               }
             },
             {
@@ -11230,7 +11230,7 @@
                 "archived": false,
                 "id": 105615454,
                 "language": "C#",
-                "last_commit": "2026-08-19T12:03:06Z",
+                "last_commit": "2026-08-19T13:02:49Z",
                 "owner": "Unity-Technologies",
                 "repo": "InputSystem",
                 "stars": 1521
@@ -11383,7 +11383,7 @@
                 "last_commit": "2026-08-10T14:10:26Z",
                 "owner": "Unity-Technologies",
                 "repo": "NativeRenderingPlugin",
-                "stars": 939
+                "stars": 940
               }
             },
             {
@@ -12069,10 +12069,10 @@
                 "archived": false,
                 "id": 6520784,
                 "language": "C++",
-                "last_commit": "2026-08-19T11:08:56Z",
+                "last_commit": "2026-08-19T22:27:30Z",
                 "owner": "RPCS3",
                 "repo": "rpcs3",
-                "stars": 19491
+                "stars": 19496
               }
             },
             {
@@ -12084,10 +12084,10 @@
                 "archived": false,
                 "id": 15379620,
                 "language": "C++",
-                "last_commit": "2026-08-19T12:00:57Z",
+                "last_commit": "2026-08-20T00:08:03Z",
                 "owner": "PCSX2",
                 "repo": "pcsx2",
-                "stars": 15342
+                "stars": 15343
               }
             },
             {
@@ -12099,10 +12099,10 @@
                 "archived": false,
                 "id": 6486826,
                 "language": "C++",
-                "last_commit": "2026-08-19T09:27:48Z",
+                "last_commit": "2026-08-20T00:49:01Z",
                 "owner": "hrydgard",
                 "repo": "ppsspp",
-                "stars": 14272
+                "stars": 14275
               }
             },
             {
@@ -12114,10 +12114,10 @@
                 "archived": false,
                 "id": 689344,
                 "language": "C",
-                "last_commit": "2026-08-19T10:41:06Z",
+                "last_commit": "2026-08-20T03:03:48Z",
                 "owner": "libretro",
                 "repo": "RetroArch",
-                "stars": 13533
+                "stars": 13536
               }
             },
             {
@@ -12144,7 +12144,7 @@
                 "archived": false,
                 "id": 5116054,
                 "language": "C++",
-                "last_commit": "2026-08-18T16:33:29Z",
+                "last_commit": "2026-08-20T01:09:58Z",
                 "owner": "drhelius",
                 "repo": "Gearboy",
                 "stars": 1192
@@ -12162,7 +12162,7 @@
                 "last_commit": "2026-08-12T02:08:12Z",
                 "owner": "grumpycoders",
                 "repo": "pcsx-redux",
-                "stars": 982
+                "stars": 981
               }
             },
             {
@@ -12245,7 +12245,7 @@
             "last_commit": "2023-11-21T15:07:11Z",
             "owner": "lava",
             "repo": "matplotlib-cpp",
-            "stars": 4766
+            "stars": 4768
           }
         },
         {
@@ -12272,10 +12272,10 @@
             "archived": false,
             "id": 86497800,
             "language": "C",
-            "last_commit": "2026-08-13T07:33:04Z",
+            "last_commit": "2026-08-19T23:01:40Z",
             "owner": "simd-everywhere",
             "repo": "simde",
-            "stars": 3079
+            "stars": 3080
           }
         },
         {
@@ -12302,7 +12302,7 @@
             "archived": false,
             "id": 32873163,
             "language": "C++",
-            "last_commit": "2026-08-19T10:52:00Z",
+            "last_commit": "2026-08-19T15:17:01Z",
             "owner": "ermig1979",
             "repo": "Simd",
             "stars": 2265
@@ -12320,7 +12320,7 @@
             "last_commit": "2026-08-12T14:54:37Z",
             "owner": "mborgerding",
             "repo": "kissfft",
-            "stars": 1970
+            "stars": 1971
           }
         },
         {
@@ -12335,7 +12335,7 @@
             "last_commit": "2026-08-06T03:37:29Z",
             "owner": "codeplea",
             "repo": "tinyexpr",
-            "stars": 1914
+            "stars": 1915
           }
         },
         {
@@ -12377,7 +12377,7 @@
             "archived": false,
             "id": 145692046,
             "language": "C++",
-            "last_commit": "2026-08-19T00:55:12Z",
+            "last_commit": "2026-08-20T00:55:05Z",
             "owner": "mpusz",
             "repo": "mp-units",
             "stars": 1462
@@ -13060,7 +13060,7 @@
                 "last_commit": "2026-08-01T14:13:42Z",
                 "owner": "facebook",
                 "repo": "zstd",
-                "stars": 27577
+                "stars": 27580
               }
             },
             {
@@ -13072,10 +13072,10 @@
                 "archived": false,
                 "id": 47409672,
                 "language": "C",
-                "last_commit": "2026-08-19T06:06:57Z",
+                "last_commit": "2026-08-19T18:11:35Z",
                 "owner": "hashcat",
                 "repo": "hashcat",
-                "stars": 26575
+                "stars": 26581
               }
             },
             {
@@ -13105,7 +13105,7 @@
                 "last_commit": "2026-07-27T13:42:29Z",
                 "owner": "Cyan4973",
                 "repo": "xxHash",
-                "stars": 11208
+                "stars": 11213
               }
             },
             {
@@ -13120,7 +13120,7 @@
                 "last_commit": "2026-06-01T09:13:57Z",
                 "owner": "madler",
                 "repo": "zlib",
-                "stars": 7028
+                "stars": 7029
               }
             },
             {
@@ -13195,7 +13195,7 @@
                 "last_commit": "2026-07-01T13:46:26Z",
                 "owner": "richgel999",
                 "repo": "miniz",
-                "stars": 2858
+                "stars": 2859
               }
             },
             {
@@ -13225,7 +13225,7 @@
                 "last_commit": "2026-06-26T15:37:31Z",
                 "owner": "pnggroup",
                 "repo": "libpng",
-                "stars": 1642
+                "stars": 1643
               }
             },
             {
@@ -13255,7 +13255,7 @@
                 "last_commit": "2026-08-01T14:11:24Z",
                 "owner": "kuba--",
                 "repo": "zip",
-                "stars": 1598
+                "stars": 1600
               }
             },
             {
@@ -13270,7 +13270,7 @@
                 "last_commit": "2026-07-12T23:42:27Z",
                 "owner": "g1mv",
                 "repo": "density",
-                "stars": 1045
+                "stars": 1044
               }
             },
             {
@@ -13375,7 +13375,7 @@
                 "last_commit": "2022-10-02T23:06:28Z",
                 "owner": "orlp",
                 "repo": "ed25519",
-                "stars": 574
+                "stars": 575
               }
             },
             {
@@ -13847,7 +13847,7 @@
                 "last_commit": "2026-04-07T11:38:35Z",
                 "owner": "g-truc",
                 "repo": "glm",
-                "stars": 11161
+                "stars": 11162
               }
             },
             {
@@ -13877,7 +13877,7 @@
                 "last_commit": "2026-08-18T14:13:22Z",
                 "owner": "xtensor-stack",
                 "repo": "xsimd",
-                "stars": 2736
+                "stars": 2737
               }
             },
             {
@@ -13892,7 +13892,7 @@
                 "last_commit": "2026-08-18T14:13:22Z",
                 "owner": "xtensor-stack",
                 "repo": "xsimd",
-                "stars": 2736
+                "stars": 2737
               }
             },
             {
@@ -13937,7 +13937,7 @@
                 "last_commit": "2023-03-03T10:55:31Z",
                 "owner": "google",
                 "repo": "mathfu",
-                "stars": 1398
+                "stars": 1399
               }
             },
             {
@@ -14151,10 +14151,10 @@
                 "archived": false,
                 "id": 648332,
                 "language": "C++",
-                "last_commit": "2026-08-19T08:31:47Z",
+                "last_commit": "2026-08-19T22:25:52Z",
                 "owner": "assimp",
                 "repo": "assimp",
-                "stars": 13143
+                "stars": 13146
               }
             },
             {
@@ -14169,7 +14169,7 @@
                 "last_commit": "2026-08-08T16:09:40Z",
                 "owner": "zeux",
                 "repo": "meshoptimizer",
-                "stars": 8233
+                "stars": 8235
               }
             },
             {
@@ -14184,7 +14184,7 @@
                 "last_commit": "2026-08-18T18:25:59Z",
                 "owner": "google",
                 "repo": "draco",
-                "stars": 7444
+                "stars": 7445
               }
             },
             {
@@ -14199,7 +14199,7 @@
                 "last_commit": "2022-01-03T03:31:55Z",
                 "owner": "wjakob",
                 "repo": "instant-meshes",
-                "stars": 6188
+                "stars": 6189
               }
             },
             {
@@ -14211,10 +14211,10 @@
                 "archived": false,
                 "id": 17055264,
                 "language": "C++",
-                "last_commit": "2026-08-18T20:38:14Z",
+                "last_commit": "2026-08-20T02:20:08Z",
                 "owner": "libigl",
                 "repo": "libigl",
-                "stars": 5071
+                "stars": 5072
               }
             },
             {
@@ -14229,7 +14229,7 @@
                 "last_commit": "2024-06-16T22:20:33Z",
                 "owner": "jpcy",
                 "repo": "xatlas",
-                "stars": 2543
+                "stars": 2545
               }
             },
             {
@@ -14289,7 +14289,7 @@
                 "last_commit": "2026-08-18T21:35:30Z",
                 "owner": "artem-ogre",
                 "repo": "CDT",
-                "stars": 1440
+                "stars": 1441
               }
             },
             {
@@ -14334,7 +14334,7 @@
                 "last_commit": "2019-12-07T19:02:04Z",
                 "owner": "hjwdzh",
                 "repo": "QuadriFlow",
-                "stars": 859
+                "stars": 860
               }
             },
             {
@@ -14349,7 +14349,7 @@
                 "last_commit": "2023-06-21T17:44:32Z",
                 "owner": "GeometryCollective",
                 "repo": "boundary-first-flattening",
-                "stars": 851
+                "stars": 852
               }
             },
             {
@@ -14376,7 +14376,7 @@
                 "archived": false,
                 "id": 443066535,
                 "language": "C++",
-                "last_commit": "2026-08-19T12:12:00Z",
+                "last_commit": "2026-08-19T21:28:08Z",
                 "owner": "MeshInspector",
                 "repo": "MeshLib",
                 "stars": 807
@@ -14701,7 +14701,7 @@
                 "last_commit": "2026-06-21T19:35:59Z",
                 "owner": "Auburn",
                 "repo": "FastNoiseLite",
-                "stars": 3482
+                "stars": 3483
               }
             },
             {
@@ -15039,7 +15039,7 @@
             "last_commit": "2026-07-29T12:13:12Z",
             "owner": "ssloy",
             "repo": "tinyrenderer",
-            "stars": 24111
+            "stars": 24113
           }
         },
         {
@@ -15051,7 +15051,7 @@
             "archived": false,
             "id": 7921466,
             "language": "HTML",
-            "last_commit": "2026-08-19T00:13:29Z",
+            "last_commit": "2026-08-19T19:43:15Z",
             "owner": "KhronosGroup",
             "repo": "glTF",
             "stars": 7812
@@ -15084,7 +15084,7 @@
             "last_commit": "2023-11-14T12:16:03Z",
             "owner": "HackerPoet",
             "repo": "NonEuclidean",
-            "stars": 6451
+            "stars": 6452
           }
         },
         {
@@ -15129,7 +15129,7 @@
             "last_commit": "2026-08-02T04:31:35Z",
             "owner": "syoyo",
             "repo": "tinygltf",
-            "stars": 2504
+            "stars": 2505
           }
         },
         {
@@ -15820,11 +15820,11 @@
               "repo_info": {
                 "archived": false,
                 "id": 3925242,
-                "language": "C",
-                "last_commit": "2026-08-18T20:42:46Z",
+                "language": "C++",
+                "last_commit": "2026-08-19T21:01:42Z",
                 "owner": "bkaradzic",
                 "repo": "bgfx",
-                "stars": 17412
+                "stars": 17414
               }
             },
             {
@@ -15839,7 +15839,7 @@
                 "last_commit": "2026-08-18T17:52:27Z",
                 "owner": "mosra",
                 "repo": "magnum",
-                "stars": 5187
+                "stars": 5188
               }
             },
             {
@@ -15869,7 +15869,7 @@
                 "last_commit": "2026-08-10T15:35:48Z",
                 "owner": "google",
                 "repo": "swiftshader",
-                "stars": 2533
+                "stars": 2534
               }
             },
             {
@@ -16071,7 +16071,7 @@
                 "last_commit": "2026-08-04T16:34:20Z",
                 "owner": "glfw",
                 "repo": "glfw",
-                "stars": 15258
+                "stars": 15263
               }
             },
             {
@@ -16086,7 +16086,7 @@
                 "last_commit": "2024-08-06T15:57:52Z",
                 "owner": "JoeyDeVries",
                 "repo": "LearnOpenGL",
-                "stars": 12595
+                "stars": 12596
               }
             },
             {
@@ -16113,7 +16113,7 @@
                 "archived": false,
                 "id": 23355681,
                 "language": "C++",
-                "last_commit": "2026-08-19T12:06:29Z",
+                "last_commit": "2026-08-20T00:28:33Z",
                 "owner": "google",
                 "repo": "angle",
                 "stars": 4057
@@ -16266,7 +16266,7 @@
                 "last_commit": "2026-08-19T06:52:37Z",
                 "owner": "fegennari",
                 "repo": "3DWorld",
-                "stars": 1411
+                "stars": 1412
               }
             },
             {
@@ -16371,7 +16371,7 @@
                 "last_commit": "2026-04-03T13:07:10Z",
                 "owner": "anholt",
                 "repo": "libepoxy",
-                "stars": 751
+                "stars": 752
               }
             },
             {
@@ -17006,7 +17006,7 @@
                     "last_commit": "2026-08-12T21:47:52Z",
                     "owner": "texus",
                     "repo": "TGUI",
-                    "stars": 1059
+                    "stars": 1060
                   }
                 },
                 {
@@ -17285,7 +17285,7 @@
                 "last_commit": "2026-08-18T05:47:03Z",
                 "owner": "SaschaWillems",
                 "repo": "Vulkan",
-                "stars": 12117
+                "stars": 12118
               }
             },
             {
@@ -17297,7 +17297,7 @@
                 "archived": false,
                 "id": 109875967,
                 "language": "Objective-C++",
-                "last_commit": "2026-08-17T19:15:10Z",
+                "last_commit": "2026-08-19T14:53:49Z",
                 "owner": "KhronosGroup",
                 "repo": "MoltenVK",
                 "stars": 5794
@@ -17312,10 +17312,10 @@
                 "archived": false,
                 "id": 61292682,
                 "language": "C++",
-                "last_commit": "2026-08-19T09:02:14Z",
+                "last_commit": "2026-08-19T13:50:17Z",
                 "owner": "KhronosGroup",
                 "repo": "Vulkan-Hpp",
-                "stars": 3777
+                "stars": 3778
               }
             },
             {
@@ -17345,7 +17345,7 @@
                 "last_commit": "2026-06-04T22:51:09Z",
                 "owner": "GPUOpen-LibrariesAndSDKs",
                 "repo": "VulkanMemoryAllocator",
-                "stars": 3468
+                "stars": 3469
               }
             },
             {
@@ -17360,7 +17360,7 @@
                 "last_commit": "2026-08-14T01:06:03Z",
                 "owner": "KhronosGroup",
                 "repo": "Vulkan-Docs",
-                "stars": 3318
+                "stars": 3319
               }
             },
             {
@@ -17477,7 +17477,7 @@
                 "archived": false,
                 "id": 132043451,
                 "language": "C++",
-                "last_commit": "2026-08-18T21:22:42Z",
+                "last_commit": "2026-08-19T20:28:50Z",
                 "owner": "KhronosGroup",
                 "repo": "Vulkan-ValidationLayers",
                 "stars": 1022
@@ -17615,7 +17615,7 @@
                 "last_commit": "2026-08-13T14:22:42Z",
                 "owner": "ValveSoftware",
                 "repo": "Fossilize",
-                "stars": 767
+                "stars": 766
               }
             },
             {
@@ -17627,7 +17627,7 @@
                 "archived": false,
                 "id": 97020137,
                 "language": "LLVM",
-                "last_commit": "2026-08-14T15:22:02Z",
+                "last_commit": "2026-08-19T14:37:17Z",
                 "owner": "google",
                 "repo": "clspv",
                 "stars": 725
@@ -18107,7 +18107,7 @@
                 "archived": false,
                 "id": 192339807,
                 "language": "C++",
-                "last_commit": "2026-08-17T13:14:41Z",
+                "last_commit": "2026-08-19T17:52:04Z",
                 "owner": "vsg-dev",
                 "repo": "vsgXchange",
                 "stars": 104
@@ -18579,10 +18579,10 @@
                 "archived": false,
                 "id": 75787966,
                 "language": "C++",
-                "last_commit": "2026-08-19T01:25:02Z",
+                "last_commit": "2026-08-20T01:50:36Z",
                 "owner": "microsoft",
                 "repo": "DirectXShaderCompiler",
-                "stars": 3626
+                "stars": 3627
               }
             },
             {
@@ -18594,7 +18594,7 @@
                 "archived": false,
                 "id": 33688642,
                 "language": "C++",
-                "last_commit": "2026-08-17T21:41:10Z",
+                "last_commit": "2026-08-19T22:35:30Z",
                 "owner": "microsoft",
                 "repo": "DirectXTex",
                 "stars": 2140
@@ -18624,10 +18624,10 @@
                 "archived": false,
                 "id": 81271358,
                 "language": "C",
-                "last_commit": "2026-08-19T06:31:23Z",
+                "last_commit": "2026-08-19T22:38:56Z",
                 "owner": "elishacloud",
                 "repo": "dxwrapper",
-                "stars": 1966
+                "stars": 1967
               }
             },
             {
@@ -18979,7 +18979,7 @@
                 "last_commit": "2023-06-25T21:58:57Z",
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 19839
+                "stars": 19842
               }
             },
             {
@@ -18994,7 +18994,7 @@
                 "last_commit": "2026-02-28T03:07:50Z",
                 "owner": "patriciogonzalezvivo",
                 "repo": "thebookofshaders",
-                "stars": 6980
+                "stars": 6983
               }
             },
             {
@@ -19006,10 +19006,10 @@
                 "archived": false,
                 "id": 93882897,
                 "language": "C++",
-                "last_commit": "2026-08-19T12:11:50Z",
+                "last_commit": "2026-08-19T19:40:46Z",
                 "owner": "shader-slang",
                 "repo": "slang",
-                "stars": 5558
+                "stars": 5561
               }
             },
             {
@@ -19024,7 +19024,7 @@
                 "last_commit": "2026-08-07T22:11:03Z",
                 "owner": "crosire",
                 "repo": "reshade",
-                "stars": 5354
+                "stars": 5356
               }
             },
             {
@@ -19036,10 +19036,10 @@
                 "archived": false,
                 "id": 27135535,
                 "language": "C++",
-                "last_commit": "2026-08-17T11:10:42Z",
+                "last_commit": "2026-08-19T23:55:56Z",
                 "owner": "patriciogonzalezvivo",
                 "repo": "glslViewer",
-                "stars": 5319
+                "stars": 5320
               }
             },
             {
@@ -19144,7 +19144,7 @@
                 "last_commit": "2026-08-02T14:17:19Z",
                 "owner": "crosire",
                 "repo": "reshade-shaders",
-                "stars": 1188
+                "stars": 1189
               }
             },
             {
@@ -19688,10 +19688,10 @@
                 "archived": false,
                 "id": 60667730,
                 "language": "C",
-                "last_commit": "2026-08-18T15:50:44Z",
+                "last_commit": "2026-08-19T23:21:29Z",
                 "owner": "lvgl",
                 "repo": "lvgl",
-                "stars": 24415
+                "stars": 24424
               }
             },
             {
@@ -19706,7 +19706,7 @@
                 "last_commit": "2026-03-09T07:51:25Z",
                 "owner": "webview",
                 "repo": "webview",
-                "stars": 14203
+                "stars": 14204
               }
             },
             {
@@ -19766,7 +19766,7 @@
                 "last_commit": "2026-05-03T17:50:16Z",
                 "owner": "nodegui",
                 "repo": "nodegui",
-                "stars": 9226
+                "stars": 9227
               }
             },
             {
@@ -19796,7 +19796,7 @@
                 "last_commit": "2024-08-13T19:01:59Z",
                 "owner": "rxi",
                 "repo": "microui",
-                "stars": 6799
+                "stars": 6803
               }
             },
             {
@@ -19811,7 +19811,7 @@
                 "last_commit": "2026-02-19T13:29:32Z",
                 "owner": "memononen",
                 "repo": "nanovg",
-                "stars": 5692
+                "stars": 5693
               }
             },
             {
@@ -19826,7 +19826,7 @@
                 "last_commit": "2026-08-12T11:08:29Z",
                 "owner": "raysan5",
                 "repo": "raygui",
-                "stars": 5081
+                "stars": 5082
               }
             },
             {
@@ -19916,7 +19916,7 @@
                 "last_commit": "2026-08-01T19:02:59Z",
                 "owner": "cnjinhao",
                 "repo": "nana",
-                "stars": 2478
+                "stars": 2479
               }
             },
             {
@@ -19931,7 +19931,7 @@
                 "last_commit": "2026-06-05T09:06:02Z",
                 "owner": "juliettef",
                 "repo": "IconFontCppHeaders",
-                "stars": 1485
+                "stars": 1486
               }
             },
             {
@@ -20063,7 +20063,7 @@
                 "archived": false,
                 "id": 9880329,
                 "language": "C++",
-                "last_commit": "2026-08-18T15:12:15Z",
+                "last_commit": "2026-08-19T15:00:06Z",
                 "owner": "qt",
                 "repo": "qt3d",
                 "stars": 229
@@ -20176,7 +20176,7 @@
                     "last_commit": "2026-08-19T11:39:50Z",
                     "owner": "ocornut",
                     "repo": "imgui",
-                    "stars": 75727
+                    "stars": 75745
                   }
                 },
                 {
@@ -20191,7 +20191,7 @@
                     "last_commit": "2026-03-29T08:34:57Z",
                     "owner": "thedmd",
                     "repo": "imgui-node-editor",
-                    "stars": 4484
+                    "stars": 4485
                   }
                 },
                 {
@@ -20206,7 +20206,7 @@
                     "last_commit": "2026-08-08T10:58:04Z",
                     "owner": "CedricGuillemet",
                     "repo": "ImGuizmo",
-                    "stars": 3994
+                    "stars": 3995
                   }
                 },
                 {
@@ -20383,7 +20383,7 @@
                     "archived": false,
                     "id": 217497991,
                     "language": "C++",
-                    "last_commit": "2026-08-17T19:08:36Z",
+                    "last_commit": "2026-08-19T13:40:17Z",
                     "owner": "gallickgunner",
                     "repo": "ImGui-Addons",
                     "stars": 424
@@ -20633,7 +20633,7 @@
                     "last_commit": "2025-09-14T11:26:47Z",
                     "owner": "john-chapman",
                     "repo": "im3d",
-                    "stars": 1295
+                    "stars": 1296
                   }
                 },
                 {
@@ -20732,7 +20732,7 @@
                 "last_commit": "2026-08-18T21:44:38Z",
                 "owner": "aseprite",
                 "repo": "aseprite",
-                "stars": 38830
+                "stars": 38844
               }
             },
             {
@@ -20747,7 +20747,7 @@
                 "last_commit": "2026-08-01T21:34:54Z",
                 "owner": "guillaumeblanc",
                 "repo": "ozz-animation",
-                "stars": 2905
+                "stars": 2907
               }
             },
             {
@@ -20777,7 +20777,7 @@
                 "last_commit": "2025-11-26T02:28:49Z",
                 "owner": "nfrechette",
                 "repo": "acl",
-                "stars": 1586
+                "stars": 1587
               }
             },
             {
@@ -21001,7 +21001,7 @@
                 "last_commit": "2024-02-16T22:29:30Z",
                 "owner": "BradLarson",
                 "repo": "GPUImage",
-                "stars": 20302
+                "stars": 20303
               }
             },
             {
@@ -21031,7 +21031,7 @@
                 "last_commit": "2025-06-23T17:05:27Z",
                 "owner": "mozilla",
                 "repo": "mozjpeg",
-                "stars": 5715
+                "stars": 5716
               }
             },
             {
@@ -21046,7 +21046,7 @@
                 "last_commit": "2026-08-03T14:01:52Z",
                 "owner": "BinomialLLC",
                 "repo": "basis_universal",
-                "stars": 3088
+                "stars": 3087
               }
             },
             {
@@ -21061,7 +21061,7 @@
                 "last_commit": "2026-05-28T17:02:59Z",
                 "owner": "lvandeve",
                 "repo": "lodepng",
-                "stars": 2340
+                "stars": 2341
               }
             },
             {
@@ -21076,7 +21076,7 @@
                 "last_commit": "2026-07-09T21:07:20Z",
                 "owner": "memononen",
                 "repo": "nanosvg",
-                "stars": 2016
+                "stars": 2017
               }
             },
             {
@@ -21440,10 +21440,10 @@
                 "archived": false,
                 "id": 143455116,
                 "language": "C++",
-                "last_commit": "2026-08-19T04:57:21Z",
+                "last_commit": "2026-08-20T00:15:19Z",
                 "owner": "google",
                 "repo": "filament",
-                "stars": 20362
+                "stars": 20365
               }
             },
             {
@@ -21665,7 +21665,7 @@
                 "archived": false,
                 "id": 176825781,
                 "language": "C++",
-                "last_commit": "2026-08-19T01:39:25Z",
+                "last_commit": "2026-08-19T16:55:51Z",
                 "owner": "NVIDIA",
                 "repo": "VisRTX",
                 "stars": 279
@@ -21843,10 +21843,10 @@
                 "archived": false,
                 "id": 71525630,
                 "language": "C",
-                "last_commit": "2026-08-03T00:00:00Z",
+                "last_commit": "2026-08-19T22:07:12Z",
                 "owner": "mackron",
                 "repo": "miniaudio",
-                "stars": 7156
+                "stars": 7160
               }
             },
             {
@@ -21903,7 +21903,7 @@
                 "archived": false,
                 "id": 129115663,
                 "language": "C",
-                "last_commit": "2026-08-19T06:41:58Z",
+                "last_commit": "2026-08-19T20:14:26Z",
                 "owner": "iPlug2",
                 "repo": "iPlug2",
                 "stars": 2391
@@ -21921,7 +21921,7 @@
                 "last_commit": "2024-08-13T04:10:58Z",
                 "owner": "jarikomppa",
                 "repo": "soloud",
-                "stars": 2150
+                "stars": 2151
               }
             },
             {
@@ -21936,7 +21936,7 @@
                 "last_commit": "2026-06-22T14:46:58Z",
                 "owner": "falkTX",
                 "repo": "Carla",
-                "stars": 2148
+                "stars": 2149
               }
             },
             {
@@ -22316,7 +22316,7 @@
                     "last_commit": "2025-03-29T19:25:00Z",
                     "owner": "thestk",
                     "repo": "stk",
-                    "stars": 1228
+                    "stars": 1229
                   }
                 },
                 {
@@ -22427,10 +22427,10 @@
                 "archived": false,
                 "id": 1614410,
                 "language": "C",
-                "last_commit": "2026-08-19T08:53:10Z",
+                "last_commit": "2026-08-19T22:35:44Z",
                 "owner": "FFmpeg",
                 "repo": "FFmpeg",
-                "stars": 63440
+                "stars": 63457
               }
             },
             {
@@ -22445,7 +22445,7 @@
                 "last_commit": "2026-08-17T17:57:13Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36589
+                "stars": 36597
               }
             },
             {
@@ -22560,10 +22560,10 @@
                 "archived": false,
                 "id": 32222044,
                 "language": "C",
-                "last_commit": "2026-08-18T19:31:23Z",
+                "last_commit": "2026-08-20T02:56:34Z",
                 "owner": "erincatto",
                 "repo": "box2d",
-                "stars": 10285
+                "stars": 10286
               }
             },
             {
@@ -22578,7 +22578,7 @@
                 "last_commit": "2023-04-26T20:07:43Z",
                 "owner": "google",
                 "repo": "liquidfun",
-                "stars": 4900
+                "stars": 4901
               }
             },
             {
@@ -22675,7 +22675,7 @@
                 "last_commit": "2025-10-22T02:13:14Z",
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14683
+                "stars": 14684
               }
             },
             {
@@ -22690,7 +22690,7 @@
                 "last_commit": "2026-08-06T06:27:20Z",
                 "owner": "jrouwe",
                 "repo": "JoltPhysics",
-                "stars": 11381
+                "stars": 11387
               }
             },
             {
@@ -22735,7 +22735,7 @@
                 "last_commit": "2023-09-25T07:58:24Z",
                 "owner": "idmillington",
                 "repo": "cyclone-physics",
-                "stars": 1107
+                "stars": 1108
               }
             },
             {
@@ -22862,7 +22862,7 @@
                 "last_commit": "2026-07-27T18:21:05Z",
                 "owner": "rlguy",
                 "repo": "Blender-FLIP-Fluids",
-                "stars": 1937
+                "stars": 1938
               }
             },
             {
@@ -22877,7 +22877,7 @@
                 "last_commit": "2018-05-10T00:07:16Z",
                 "owner": "dli",
                 "repo": "waves",
-                "stars": 1108
+                "stars": 1109
               }
             },
             {
@@ -23181,7 +23181,7 @@
             "archived": false,
             "id": 27889694,
             "language": "C++",
-            "last_commit": "2026-08-19T12:02:41Z",
+            "last_commit": "2026-08-19T16:35:18Z",
             "owner": "facebook",
             "repo": "wangle",
             "stars": 3095
@@ -23231,10 +23231,10 @@
                 "archived": false,
                 "id": 5909706,
                 "language": "C++",
-                "last_commit": "2026-08-19T11:07:59Z",
+                "last_commit": "2026-08-20T01:14:52Z",
                 "owner": "yhirose",
                 "repo": "cpp-httplib",
-                "stars": 16752
+                "stars": 16753
               }
             },
             {
@@ -23249,7 +23249,7 @@
                 "last_commit": "2026-08-06T00:29:40Z",
                 "owner": "ValveSoftware",
                 "repo": "GameNetworkingSockets",
-                "stars": 9845
+                "stars": 9844
               }
             },
             {
@@ -23264,7 +23264,7 @@
                 "last_commit": "2026-08-18T18:54:30Z",
                 "owner": "Mbed-TLS",
                 "repo": "mbedtls",
-                "stars": 6881
+                "stars": 6885
               }
             },
             {
@@ -23306,7 +23306,7 @@
                 "archived": false,
                 "id": 8608254,
                 "language": "C++",
-                "last_commit": "2026-08-19T11:50:25Z",
+                "last_commit": "2026-08-19T21:14:57Z",
                 "owner": "randombit",
                 "repo": "botan",
                 "stars": 3304
@@ -23324,7 +23324,7 @@
                 "last_commit": "2026-06-23T19:17:35Z",
                 "owner": "lsalzman",
                 "repo": "enet",
-                "stars": 3254
+                "stars": 3256
               }
             },
             {
@@ -23369,7 +23369,7 @@
                 "last_commit": "2026-01-31T12:33:07Z",
                 "owner": "zpl-c",
                 "repo": "librg",
-                "stars": 1494
+                "stars": 1495
               }
             },
             {
@@ -23718,10 +23718,10 @@
                 "archived": false,
                 "id": 28449431,
                 "language": "C++",
-                "last_commit": "2026-08-19T10:47:19Z",
+                "last_commit": "2026-08-20T01:32:58Z",
                 "owner": "scylladb",
                 "repo": "scylladb",
-                "stars": 15714
+                "stars": 15718
               }
             },
             {
@@ -23736,7 +23736,7 @@
                 "last_commit": "2026-07-24T19:59:06Z",
                 "owner": "SRombauts",
                 "repo": "SQLiteCpp",
-                "stars": 2771
+                "stars": 2772
               }
             },
             {
@@ -23845,7 +23845,7 @@
                 "archived": false,
                 "id": 27729880,
                 "language": "C++",
-                "last_commit": "2026-08-19T10:10:10Z",
+                "last_commit": "2026-08-19T22:47:39Z",
                 "owner": "grpc",
                 "repo": "grpc",
                 "stars": 45231
@@ -23912,7 +23912,7 @@
                 "archived": false,
                 "id": 78869430,
                 "language": "Go",
-                "last_commit": "2026-08-18T12:54:52Z",
+                "last_commit": "2026-08-19T18:22:50Z",
                 "owner": "heroiclabs",
                 "repo": "nakama",
                 "stars": 13185
@@ -23927,10 +23927,10 @@
                 "archived": false,
                 "id": 5414488,
                 "language": "C",
-                "last_commit": "2026-08-19T08:48:52Z",
+                "last_commit": "2026-08-19T14:36:05Z",
                 "owner": "cesanta",
                 "repo": "mongoose",
-                "stars": 13002
+                "stars": 13004
               }
             },
             {
@@ -23957,10 +23957,10 @@
                 "archived": false,
                 "id": 113473682,
                 "language": "Go",
-                "last_commit": "2026-08-18T21:17:53Z",
+                "last_commit": "2026-08-19T15:20:18Z",
                 "owner": "agones-dev",
                 "repo": "agones",
-                "stars": 6977
+                "stars": 6978
               }
             },
             {
@@ -24198,7 +24198,7 @@
                 "last_commit": "2026-08-17T06:09:36Z",
                 "owner": "tesseract-ocr",
                 "repo": "tesseract",
-                "stars": 75988
+                "stars": 76011
               }
             },
             {
@@ -24213,7 +24213,7 @@
                 "last_commit": "2024-05-03T13:53:58Z",
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26491
+                "stars": 26492
               }
             },
             {
@@ -24228,7 +24228,7 @@
                 "last_commit": "2026-08-18T08:40:18Z",
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 23713
+                "stars": 23718
               }
             },
             {
@@ -24240,10 +24240,10 @@
                 "archived": false,
                 "id": 156939672,
                 "language": "C++",
-                "last_commit": "2026-08-19T07:39:55Z",
+                "last_commit": "2026-08-20T02:35:56Z",
                 "owner": "microsoft",
                 "repo": "onnxruntime",
-                "stars": 21399
+                "stars": 21404
               }
             },
             {
@@ -24258,7 +24258,7 @@
                 "last_commit": "2026-08-17T17:05:52Z",
                 "owner": "NVIDIA",
                 "repo": "TensorRT",
-                "stars": 13267
+                "stars": 13269
               }
             },
             {
@@ -24535,7 +24535,7 @@
                 "last_commit": "2026-02-27T07:17:13Z",
                 "owner": "recastnavigation",
                 "repo": "recastnavigation",
-                "stars": 7862
+                "stars": 7863
               }
             },
             {
@@ -24550,7 +24550,7 @@
                 "last_commit": "2023-05-17T17:36:47Z",
                 "owner": "Unity-Technologies",
                 "repo": "NavMeshComponents",
-                "stars": 3087
+                "stars": 3088
               }
             },
             {
@@ -24663,7 +24663,7 @@
             "last_commit": "2023-11-28T03:26:23Z",
             "owner": "dylanaraps",
             "repo": "pure-bash-bible",
-            "stars": 41719
+            "stars": 41718
           }
         },
         {
@@ -24675,10 +24675,10 @@
             "archived": false,
             "id": 169677297,
             "language": "V",
-            "last_commit": "2026-08-19T10:56:32Z",
+            "last_commit": "2026-08-20T02:23:49Z",
             "owner": "vlang",
             "repo": "v",
-            "stars": 37798
+            "stars": 37797
           }
         },
         {
@@ -24690,7 +24690,7 @@
             "archived": false,
             "id": 455600,
             "language": "C++",
-            "last_commit": "2026-08-19T12:07:15Z",
+            "last_commit": "2026-08-20T02:28:33Z",
             "owner": "facebook",
             "repo": "hhvm",
             "stars": 18654
@@ -24708,7 +24708,7 @@
             "last_commit": "2024-08-07T12:07:07Z",
             "owner": "munificent",
             "repo": "craftinginterpreters",
-            "stars": 10994
+            "stars": 10995
           }
         },
         {
@@ -24723,7 +24723,7 @@
             "last_commit": "2023-12-26T06:13:39Z",
             "owner": "rswier",
             "repo": "c4",
-            "stars": 10776
+            "stars": 10777
           }
         },
         {
@@ -24738,7 +24738,7 @@
             "last_commit": "2025-11-19T22:18:55Z",
             "owner": "wren-lang",
             "repo": "wren",
-            "stars": 8110
+            "stars": 8112
           }
         },
         {
@@ -24798,7 +24798,7 @@
             "last_commit": "2026-05-18T12:47:02Z",
             "owner": "mono",
             "repo": "CppSharp",
-            "stars": 3401
+            "stars": 3402
           }
         },
         {
@@ -24858,7 +24858,7 @@
             "last_commit": "2026-08-19T11:45:57Z",
             "owner": "ArkScript-lang",
             "repo": "Ark",
-            "stars": 723
+            "stars": 724
           }
         },
         {
@@ -24953,7 +24953,7 @@
                 "last_commit": "2026-08-07T19:00:03Z",
                 "owner": "lua",
                 "repo": "lua",
-                "stars": 10241
+                "stars": 10243
               }
             },
             {
@@ -24983,7 +24983,7 @@
                 "last_commit": "2026-04-02T18:48:54Z",
                 "owner": "luvit",
                 "repo": "luvit",
-                "stars": 3961
+                "stars": 3962
               }
             },
             {
@@ -25260,7 +25260,7 @@
                 "last_commit": "2026-07-29T14:56:37Z",
                 "owner": "gto76",
                 "repo": "python-cheatsheet",
-                "stars": 38635
+                "stars": 38636
               }
             },
             {
@@ -25272,7 +25272,7 @@
                 "archived": false,
                 "id": 38581626,
                 "language": "C++",
-                "last_commit": "2026-08-17T04:50:36Z",
+                "last_commit": "2026-08-19T23:06:00Z",
                 "owner": "pybind",
                 "repo": "pybind11",
                 "stars": 18001
@@ -25339,10 +25339,10 @@
                 "archived": false,
                 "id": 24420506,
                 "language": "C++",
-                "last_commit": "2026-08-19T10:21:01Z",
+                "last_commit": "2026-08-20T01:45:59Z",
                 "owner": "v8",
                 "repo": "v8",
-                "stars": 25196
+                "stars": 25198
               }
             },
             {
@@ -25440,7 +25440,7 @@
             "last_commit": "2026-07-31T16:56:51Z",
             "owner": "paceholder",
             "repo": "nodeeditor",
-            "stars": 3682
+            "stars": 3683
           }
         },
         {
@@ -25482,7 +25482,7 @@
             "archived": false,
             "id": 106465340,
             "language": "C++",
-            "last_commit": "2026-08-16T16:58:31Z",
+            "last_commit": "2026-08-19T22:28:22Z",
             "owner": "berdal84",
             "repo": "nodable",
             "stars": 198
@@ -25655,7 +25655,7 @@
                 "last_commit": "2026-08-09T15:23:08Z",
                 "owner": "skypjack",
                 "repo": "entt",
-                "stars": 13028
+                "stars": 13029
               }
             },
             {
@@ -25670,7 +25670,7 @@
                 "last_commit": "2026-08-18T14:33:22Z",
                 "owner": "SanderMertens",
                 "repo": "flecs",
-                "stars": 8603
+                "stars": 8604
               }
             },
             {
@@ -25887,7 +25887,7 @@
                 "last_commit": "2024-08-03T01:59:11Z",
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34372
+                "stars": 34373
               }
             },
             {
@@ -26026,10 +26026,10 @@
                 "archived": false,
                 "id": 1418150,
                 "language": "C++",
-                "last_commit": "2026-08-19T10:44:07Z",
+                "last_commit": "2026-08-19T15:44:57Z",
                 "owner": "mapeditor",
                 "repo": "tiled",
-                "stars": 12828
+                "stars": 12831
               }
             },
             {
@@ -26265,10 +26265,10 @@
                 "archived": false,
                 "id": 125098880,
                 "language": "C++",
-                "last_commit": "2026-08-19T11:50:16Z",
+                "last_commit": "2026-08-19T22:12:05Z",
                 "owner": "ValveSoftware",
                 "repo": "Proton",
-                "stars": 32576
+                "stars": 32581
               }
             },
             {
@@ -26283,7 +26283,7 @@
                 "last_commit": "2026-08-17T12:03:12Z",
                 "owner": "JosefNemec",
                 "repo": "Playnite",
-                "stars": 13777
+                "stars": 13781
               }
             },
             {
@@ -26407,7 +26407,7 @@
                 "archived": false,
                 "id": 32231207,
                 "language": "C++",
-                "last_commit": "2026-08-19T07:35:46Z",
+                "last_commit": "2026-08-20T03:06:27Z",
                 "owner": "endless-sky",
                 "repo": "endless-sky",
                 "stars": 7502
@@ -26425,7 +26425,7 @@
                 "last_commit": "2025-12-26T23:00:33Z",
                 "owner": "CytopiaTeam",
                 "repo": "Cytopia",
-                "stars": 2151
+                "stars": 2152
               }
             },
             {
@@ -26520,10 +26520,10 @@
             "archived": false,
             "id": 724712,
             "language": "Rust",
-            "last_commit": "2026-08-19T12:10:01Z",
+            "last_commit": "2026-08-20T02:58:50Z",
             "owner": "rust-lang",
             "repo": "rust",
-            "stars": 115605
+            "stars": 115611
           }
         },
         {
@@ -26538,7 +26538,7 @@
             "last_commit": "2026-08-18T15:53:34Z",
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 58896
+            "stars": 58900
           }
         },
         {
@@ -26553,7 +26553,7 @@
             "last_commit": "2026-08-16T21:29:48Z",
             "owner": "iced-rs",
             "repo": "iced",
-            "stars": 31303
+            "stars": 31306
           }
         },
         {
@@ -26565,10 +26565,10 @@
             "archived": false,
             "id": 148686316,
             "language": "Rust",
-            "last_commit": "2026-08-19T11:34:31Z",
+            "last_commit": "2026-08-19T18:04:16Z",
             "owner": "gfx-rs",
             "repo": "wgpu",
-            "stars": 17822
+            "stars": 17823
           }
         },
         {
@@ -26583,7 +26583,7 @@
             "last_commit": "2026-08-16T12:32:34Z",
             "owner": "diesel-rs",
             "repo": "diesel",
-            "stars": 14155
+            "stars": 14156
           }
         },
         {
@@ -26598,7 +26598,7 @@
             "last_commit": "2021-12-06T18:23:49Z",
             "owner": "amethyst",
             "repo": "amethyst",
-            "stars": 8025
+            "stars": 8024
           }
         },
         {
@@ -26643,7 +26643,7 @@
             "last_commit": "2026-06-22T10:32:08Z",
             "owner": "ggez",
             "repo": "ggez",
-            "stars": 4680
+            "stars": 4679
           }
         },
         {
@@ -26673,7 +26673,7 @@
             "last_commit": "2026-07-18T11:53:04Z",
             "owner": "rust-ndarray",
             "repo": "ndarray",
-            "stars": 4312
+            "stars": 4311
           }
         },
         {
@@ -26688,7 +26688,7 @@
             "last_commit": "2026-06-17T23:03:04Z",
             "owner": "nrc",
             "repo": "r4cppp",
-            "stars": 3878
+            "stars": 3880
           }
         },
         {
@@ -26733,7 +26733,7 @@
             "last_commit": "2026-08-18T23:39:22Z",
             "owner": "rust-lang",
             "repo": "reference",
-            "stars": 1546
+            "stars": 1547
           }
         },
         {
@@ -27051,10 +27051,10 @@
             "archived": false,
             "id": 54346799,
             "language": "Python",
-            "last_commit": "2026-08-18T19:20:39Z",
+            "last_commit": "2026-08-19T21:44:19Z",
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 465362
+            "stars": 466176
           }
         },
         {
@@ -27066,10 +27066,10 @@
             "archived": false,
             "id": 15111821,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:13:06Z",
+            "last_commit": "2026-08-20T02:53:37Z",
             "owner": "grafana",
             "repo": "grafana",
-            "stars": 76306
+            "stars": 76316
           }
         },
         {
@@ -27084,7 +27084,7 @@
             "last_commit": "2026-07-28T17:52:48Z",
             "owner": "NickeManarin",
             "repo": "ScreenToGif",
-            "stars": 27506
+            "stars": 27511
           }
         },
         {
@@ -27111,10 +27111,10 @@
             "archived": false,
             "id": 63809205,
             "language": "Shell",
-            "last_commit": "2026-08-19T09:42:39Z",
+            "last_commit": "2026-08-19T16:02:04Z",
             "owner": "google",
             "repo": "oss-fuzz",
-            "stars": 12570
+            "stars": 12571
           }
         },
         {
@@ -27144,7 +27144,7 @@
             "last_commit": "2026-08-04T07:18:33Z",
             "owner": "255kb",
             "repo": "stack-on-a-budget",
-            "stars": 12387
+            "stars": 12388
           }
         },
         {
@@ -27174,7 +27174,7 @@
             "last_commit": "2026-05-06T06:41:23Z",
             "owner": "Syllo",
             "repo": "nvtop",
-            "stars": 10928
+            "stars": 10929
           }
         },
         {
@@ -27189,7 +27189,7 @@
             "last_commit": "2026-02-20T03:19:39Z",
             "owner": "android",
             "repo": "ndk-samples",
-            "stars": 10524
+            "stars": 10525
           }
         },
         {
@@ -27204,7 +27204,7 @@
             "last_commit": "2026-06-15T06:18:25Z",
             "owner": "LibreSprite",
             "repo": "LibreSprite",
-            "stars": 8261
+            "stars": 8262
           }
         },
         {
@@ -27231,10 +27231,10 @@
             "archived": false,
             "id": 54221232,
             "language": "C++",
-            "last_commit": "2026-08-18T20:30:57Z",
+            "last_commit": "2026-08-19T16:36:04Z",
             "owner": "opentoonz",
             "repo": "opentoonz",
-            "stars": 7553
+            "stars": 7556
           }
         },
         {
@@ -27249,7 +27249,7 @@
             "last_commit": "2026-08-18T15:04:48Z",
             "owner": "cppcheck-opensource",
             "repo": "cppcheck",
-            "stars": 6720
+            "stars": 6721
           }
         },
         {
@@ -27264,7 +27264,7 @@
             "last_commit": "2026-08-10T11:53:21Z",
             "owner": "PlotJuggler",
             "repo": "PlotJuggler",
-            "stars": 6120
+            "stars": 6122
           }
         },
         {
@@ -27279,7 +27279,7 @@
             "last_commit": "2026-07-06T21:02:09Z",
             "owner": "greenshot",
             "repo": "greenshot",
-            "stars": 5080
+            "stars": 5082
           }
         },
         {
@@ -27324,7 +27324,7 @@
             "last_commit": "2026-08-17T13:40:09Z",
             "owner": "huxingyi",
             "repo": "dust3d",
-            "stars": 3468
+            "stars": 3469
           }
         },
         {
@@ -27369,7 +27369,7 @@
             "last_commit": "2026-08-06T18:09:41Z",
             "owner": "google",
             "repo": "shaderc",
-            "stars": 2175
+            "stars": 2177
           }
         },
         {
@@ -27384,7 +27384,7 @@
             "last_commit": "2026-08-16T00:43:08Z",
             "owner": "Tom94",
             "repo": "tev",
-            "stars": 1419
+            "stars": 1421
           }
         },
         {
@@ -27411,10 +27411,10 @@
             "archived": false,
             "id": 45981801,
             "language": "C++",
-            "last_commit": "2026-08-19T02:25:48Z",
+            "last_commit": "2026-08-20T02:25:15Z",
             "owner": "KhronosGroup",
             "repo": "SPIRV-Tools",
-            "stars": 1348
+            "stars": 1349
           }
         },
         {
@@ -27429,7 +27429,7 @@
             "last_commit": "2026-08-17T22:46:43Z",
             "owner": "azagaya",
             "repo": "laigter",
-            "stars": 1281
+            "stars": 1282
           }
         },
         {
@@ -27444,7 +27444,7 @@
             "last_commit": "2025-03-21T04:55:04Z",
             "owner": "aras-p",
             "repo": "ClangBuildAnalyzer",
-            "stars": 1253
+            "stars": 1254
           }
         },
         {
@@ -27474,7 +27474,7 @@
             "last_commit": "2025-05-26T23:47:50Z",
             "owner": "graphitemaster",
             "repo": "incbin",
-            "stars": 1182
+            "stars": 1183
           }
         },
         {
@@ -27486,7 +27486,7 @@
             "archived": false,
             "id": 44808646,
             "language": "Go",
-            "last_commit": "2026-08-16T18:15:02Z",
+            "last_commit": "2026-08-19T22:42:11Z",
             "owner": "itchio",
             "repo": "butler",
             "stars": 977
@@ -28004,7 +28004,7 @@
                 "last_commit": "2022-09-08T16:16:20Z",
                 "owner": "microsoft",
                 "repo": "VS-ColorThemes",
-                "stars": 345
+                "stars": 344
               }
             },
             {
@@ -28210,10 +28210,10 @@
                 "archived": false,
                 "id": 68312233,
                 "language": "CMake",
-                "last_commit": "2026-08-19T01:36:05Z",
+                "last_commit": "2026-08-20T00:17:53Z",
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27375
+                "stars": 27379
               }
             },
             {
@@ -28228,7 +28228,7 @@
                 "last_commit": "2026-07-25T20:55:58Z",
                 "owner": "ninja-build",
                 "repo": "ninja",
-                "stars": 13154
+                "stars": 13157
               }
             },
             {
@@ -28285,7 +28285,7 @@
                 "archived": false,
                 "id": 119684778,
                 "language": "Rust",
-                "last_commit": "2026-08-19T10:45:57Z",
+                "last_commit": "2026-08-20T02:37:12Z",
                 "owner": "cabinpkg",
                 "repo": "cabin",
                 "stars": 1480
@@ -28315,10 +28315,10 @@
                 "archived": false,
                 "id": 204671232,
                 "language": "Python",
-                "last_commit": "2026-08-19T10:17:34Z",
+                "last_commit": "2026-08-19T14:11:09Z",
                 "owner": "conan-io",
                 "repo": "conan-center-index",
-                "stars": 1196
+                "stars": 1197
               }
             },
             {
@@ -28581,7 +28581,7 @@
             "last_commit": "2026-07-14T19:25:58Z",
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 541118
+            "stars": 541340
           }
         },
         {
@@ -28596,7 +28596,7 @@
             "last_commit": "2026-08-18T13:28:50Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 497654
+            "stars": 497863
           }
         },
         {
@@ -28611,7 +28611,7 @@
             "last_commit": "2026-08-19T05:32:17Z",
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 72828
+            "stars": 72842
           }
         },
         {
@@ -28626,7 +28626,7 @@
             "last_commit": "2024-09-01T20:32:39Z",
             "owner": "sdras",
             "repo": "awesome-actions",
-            "stars": 28145
+            "stars": 28147
           }
         },
         {
@@ -28641,7 +28641,7 @@
             "last_commit": "2026-08-17T17:57:40Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17150
+            "stars": 17156
           }
         },
         {
@@ -28656,7 +28656,7 @@
             "last_commit": "2024-08-20T19:26:37Z",
             "owner": "rigtorp",
             "repo": "awesome-modern-cpp",
-            "stars": 13132
+            "stars": 13131
           }
         },
         {
@@ -28671,7 +28671,7 @@
             "last_commit": "2026-07-29T19:50:44Z",
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8645
+            "stars": 8648
           }
         },
         {
@@ -28713,7 +28713,7 @@
             "archived": false,
             "id": 40364738,
             "language": null,
-            "last_commit": "2026-08-10T02:54:08Z",
+            "last_commit": "2026-08-20T01:51:05Z",
             "owner": "MattPD",
             "repo": "cpplinks",
             "stars": 5278
@@ -28791,7 +28791,7 @@
             "last_commit": "2026-07-07T19:10:59Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3105
+            "stars": 3104
           }
         },
         {
@@ -28821,7 +28821,7 @@
             "last_commit": "2022-09-22T06:48:20Z",
             "owner": "fenbf",
             "repo": "AwesomePerfCpp",
-            "stars": 2551
+            "stars": 2552
           }
         },
         {
@@ -28836,7 +28836,7 @@
             "last_commit": "2026-01-09T12:26:55Z",
             "owner": "eug",
             "repo": "awesome-opengl",
-            "stars": 2432
+            "stars": 2433
           }
         },
         {
@@ -28881,7 +28881,7 @@
             "last_commit": "2026-08-18T17:40:34Z",
             "owner": "cgwire",
             "repo": "awesome-cg-vfx-pipeline",
-            "stars": 1245
+            "stars": 1246
           }
         },
         {
@@ -28971,7 +28971,7 @@
             "last_commit": "2022-11-03T08:38:56Z",
             "owner": "rofrol",
             "repo": "awesome-wgpu",
-            "stars": 494
+            "stars": 495
           }
         },
         {
@@ -29172,7 +29172,7 @@
             "last_commit": "2025-08-28T14:42:47Z",
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 359200
+            "stars": 359262
           }
         },
         {
@@ -29187,7 +29187,7 @@
             "last_commit": "2025-12-29T19:37:02Z",
             "owner": "mtdvio",
             "repo": "every-programmer-should-know",
-            "stars": 100264
+            "stars": 100263
           }
         },
         {
@@ -29202,7 +29202,7 @@
             "last_commit": "2025-05-12T12:56:04Z",
             "owner": "kdn251",
             "repo": "interviews",
-            "stars": 65218
+            "stars": 65221
           }
         },
         {
@@ -29232,7 +29232,7 @@
             "last_commit": "2024-03-28T01:05:23Z",
             "owner": "miloyip",
             "repo": "game-programmer",
-            "stars": 18692
+            "stars": 18693
           }
         },
         {
@@ -29262,7 +29262,7 @@
             "last_commit": "2026-04-02T12:55:42Z",
             "owner": "ntegrals",
             "repo": "openbrowser",
-            "stars": 9511
+            "stars": 9510
           }
         },
         {
@@ -29331,10 +29331,10 @@
             "archived": false,
             "id": 9384267,
             "language": "C++",
-            "last_commit": "2026-08-19T11:11:13Z",
+            "last_commit": "2026-08-20T01:23:26Z",
             "owner": "electron",
             "repo": "electron",
-            "stars": 122573
+            "stars": 122585
           }
         },
         {
@@ -29349,7 +29349,7 @@
             "last_commit": "2024-07-29T19:34:21Z",
             "owner": "animate-css",
             "repo": "animate.css",
-            "stars": 82735
+            "stars": 82737
           }
         },
         {
@@ -29417,7 +29417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:13:02.232Z",
+    "last_updated": "2026-08-20T03:11:57.460Z",
     "original_repository": "Caerind/AwesomeCppGameDev",
     "original_repository_id": 99509127,
     "original_repository_sha": "0426419acfd7508c5c14e658660ac9a6445aea6e",
